@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Container version="2">
+  <Name>UpSnap</Name>
+  <Repository>ghcr.io/seriousm4x/upsnap:3</Repository>
+  <Registry>https://github.com/seriousm4x/UpSnap/pkgs/container/upsnap</Registry>
+  <Network>host</Network>
+  <MyIP />
+  <Shell>sh</Shell>
+  <Privileged>false</Privileged>
+  <Support>https://forums.unraid.net/topic/137262-support-seriousm4x-upsnap/</Support>
+  <Project>https://github.com/seriousm4x/UpSnap</Project>
+  <Overview> A simple wake on lan web app written with SvelteKit, Go, PocketBase and nmap</Overview>
+  <Category>HomeAutomation: Network:Management Status:Stable</Category>
+  <WebUI />
+  <TemplateURL />
+  <Icon>https://raw.githubusercontent.com/seriousm4x/UpSnap/master/frontend/static/gopher.svg</Icon>
+  <ExtraParams />
+  <PostArgs />
+  <CPUset />
+  <DateInstalled>1680434971</DateInstalled>
+  <DonateText>Want to support my work? Buy me a coffee on ko-fi or become a Github Sponsor.</DonateText>
+  <DonateLink>https://github.com/seriousm4x#want-to-buy-me-a--</DonateLink>
+  <Requires />
+</Container>
