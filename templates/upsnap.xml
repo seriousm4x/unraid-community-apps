@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name>UpSnap</Name>
-  <Repository>ghcr.io/seriousm4x/upsnap:3</Repository>
+  <Repository>ghcr.io/seriousm4x/upsnap:4</Repository>
   <Registry>https://github.com/seriousm4x/UpSnap/pkgs/container/upsnap</Registry>
   <Network>host</Network>
   <MyIP />
