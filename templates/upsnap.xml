@@ -9,7 +9,7 @@
   <Privileged>false</Privileged>
   <Support>https://forums.unraid.net/topic/137262-support-seriousm4x-upsnap/</Support>
   <Project>https://github.com/seriousm4x/UpSnap</Project>
-  <Overview> A simple wake on lan web app written with SvelteKit, Go, PocketBase and nmap</Overview>
+  <Overview> A simple wake on lan web app written with SvelteKit, Go and PocketBase.</Overview>
   <Category>HomeAutomation: Network:Management Status:Stable</Category>
   <WebUI />
   <TemplateURL />
