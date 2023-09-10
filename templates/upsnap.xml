@@ -14,7 +14,7 @@
   <WebUI>http://[IP]:[PORT:8090]</WebUI>
   <TemplateURL>
     https://raw.githubusercontent.com/seriousm4x/unraid-community-apps/master/templates/upsnap.xml</TemplateURL>
-  <Icon>https://raw.githubusercontent.com/seriousm4x/UpSnap/master/frontend/static/gopher.svg</Icon>
+  <Icon>https://raw.githubusercontent.com/seriousm4x/unraid-community-apps/master/icons/upsnap.png</Icon>
   <ExtraParams />
   <PostArgs>--http 0.0.0.0:8090</PostArgs>
   <CPUset />
